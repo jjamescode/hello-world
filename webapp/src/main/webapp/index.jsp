@@ -3,7 +3,7 @@
     <h1>This is a test form! Thx</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
-     
+    Thankyou, Happy Learning 
     <label for="Name"><b>Enter Name</b></label>
     <input type="text" placeholder="Full Name" name="Name" id="Name" required>
     <br>
@@ -31,7 +31,8 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning </h1>
+   <h1> Please come again! </h1>
+   <h3> This was immense fun! </h3>
 
   
 </form>
